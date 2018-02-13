@@ -7,6 +7,7 @@
 [![NPM Version](http://img.shields.io/npm/v/miox.svg?style=flat)](https://www.npmjs.org/package/miox)
 [![NPM Downloads](https://img.shields.io/npm/dm/miox.svg?style=flat)](https://www.npmjs.org/package/miox)
 [![miox starter](https://img.shields.io/badge/miox-starter-brightgreen.svg)](https://www.npmjs.org/package/miox)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fmiox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fmiox?ref=badge_shield)
 
 [Miox](https://github.com/51nb/miox) is an SPA management framework.
 
@@ -112,3 +113,6 @@ Miox is [MIT licensed](https://opensource.org/licenses/MIT).
 
 Copyright (c) 2015-present, [evio(沈赟杰)](https://github.com/cevio) - 51信用卡管家 杭州恩牛网络技术有限公司
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fmiox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fmiox?ref=badge_large)
